@@ -53,7 +53,7 @@ Quake III server.cmd <dm/tdm/ctf>
 
 ## Maps
 
-The configs refer to maps that are either freely downloadable on the internet. For example, the ones starting with `osp*` are part of **Orange Smoothie Productions' OSP Tourney modification for Quake III: Arena**.
+The configs refer to maps that are either included with the licensed game, or freely downloadable on the internet. For example, the ones starting with `osp*` are part of **Orange Smoothie Productions' OSP Tourney modification for Quake III: Arena**.
 
 OSP maps can be downloaded here:
 
